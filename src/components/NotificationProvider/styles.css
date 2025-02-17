@@ -1,0 +1,15 @@
+/* because no normal way to make rounded borders */
+.SnackbarItem-contentRoot {
+    border-radius: 16px !important;
+}
+
+.SnackbarItem-variantError {
+    background-color: #ffffff !important;
+    color: red !important;
+}
+
+.SnackbarItem-variantSuccess {
+    background-color: #ffffff !important;
+    color: green !important;
+}
+
